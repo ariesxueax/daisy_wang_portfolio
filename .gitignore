@@ -1,0 +1,11 @@
+# Local PDF-generation implementation; the finished PDF is kept in assets/.
+scripts/
+
+# Legacy browser-side PDF export libraries, no longer used by the site.
+assets/html2canvas.min.js
+assets/html2pdf.bundle.min.js
+assets/jspdf.umd.min.js
+
+# OS metadata
+Thumbs.db
+.DS_Store
